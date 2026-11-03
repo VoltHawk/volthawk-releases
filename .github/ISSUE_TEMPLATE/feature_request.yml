@@ -1,0 +1,11 @@
+name: Feature Request
+description: Propose a new feature or rule template for VoltHawk
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Problem & Proposed Capability
+    validations:
+      required: true
